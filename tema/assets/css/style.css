@@ -1099,7 +1099,7 @@ section {
 }
 
 .bg-page-header {
-  background: url(../images/about/bg-page-header.jpg) no-repeat;
+  background: url(https://cdn.jsdelivr.net/gh/depri12kurnia/Assets-Jakarta-3@9b51dd849241b9d6346f1e839c7d5f93b0a97cfc/tema/assets/images/about/bg-page-header-baru.jpg) no-repeat;
   background-size: cover;
   background-position: 50% 50%;
   height: 120px;
